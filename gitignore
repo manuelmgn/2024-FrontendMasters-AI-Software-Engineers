@@ -1,0 +1,21 @@
+.*
+.gitignore
+.config/*
+
+*.rsls
+*.rslsc
+*.rslsz
+*.workspace
+
+*.DS_
+
+arquivoTemporario
+
+# Python
+
+*/__pycache__/
+__pycache__
+*/venv/
+*/.venv/
+
+*.pyc
